@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">El joc de Bob</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_action_bar">Bob Dobbs</string>
+    <string name="cards">Face cards</string>
+    <string name="timer">time gif</string>
+    <string name="bob_intro">Bob gif</string>
+    <string name="bob_hello1">El joc de rostres</string>
+    <string name="bob_hello2">de Bob Dobbs</string>
+    <string name="bob_hello_subtitle">Click\'m al rostre!</string>
+    <string name="end_game">Bob diu: has guanyat!</string>
+    <string name="fail">fallada</string>
+    <string name="match">encert</string>
+    <string name="win">Win</string>
+    <string name="load_activity_title">El joc de rostres de Bob</string>
+</resources>

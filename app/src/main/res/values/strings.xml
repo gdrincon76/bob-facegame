@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bob face game</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_action_bar">Bob Dobbs</string>
+    <string name="cards">Face cards</string>
+    <string name="timer">time gif</string>
+    <string name="bob_intro">Bob gif</string>
+    <string name="bob_hello1">The Bob Dobbs\'s</string>
+    <string name="bob_hello2">Faces game</string>
+    <string name="bob_hello_subtitle">Click me in the face!</string>
+    <string name="end_game">Bob says: You win!</string>
+    <string name="fail">wrong</string>
+    <string name="match">match</string>
+    <string name="win">Win</string>
+    <string name="load_activity_title">Bob Dobbs\'s face game</string>
+</resources>

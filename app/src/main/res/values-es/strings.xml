@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">El juego de Bob</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="title_action_bar">Bob Dobbs</string>
+    <string name="cards">Face cards</string>
+    <string name="timer">time gif</string>
+    <string name="bob_intro">Bob gif</string>
+    <string name="bob_hello1">El juego de caras </string>
+    <string name="bob_hello2">de Bob Dobbs</string>
+    <string name="bob_hello_subtitle">!Has click en mi cara!</string>
+    <string name="end_game">Bob dice: ¡Has ganado!</string>
+    <string name="fail">fallo</string>
+    <string name="match">acierto</string>
+    <string name="win">Win</string>
+    <string name="load_activity_title">El juego de Bob</string>
+</resources>

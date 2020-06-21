@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" android:oneshot="false">
+    <item android:drawable="@drawable/bobtv00" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv01" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv02" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv03" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv04" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv05" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv06" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv07" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv08" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv09" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv10" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv11" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv12" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv13" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv14" android:duration="200"/>
+    <item android:drawable="@drawable/bobtv15" android:duration="200"/>
+</animation-list>
